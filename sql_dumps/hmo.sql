@@ -1,0 +1,15 @@
+INSERT INTO hmos VALUES (1,'MediCard', NOW(), NOW());
+INSERT INTO hmos VALUES (2,'COCOLIFE Healthcare', NOW(), NOW());
+INSERT INTO hmos VALUES (3,'Etiqa', NOW(), NOW());
+INSERT INTO hmos VALUES (4,'Eastwest Healthcare', NOW(), NOW());
+INSERT INTO hmos VALUES (5,'HMI', NOW(), NOW());
+INSERT INTO hmos VALUES (6,'Pacific Cross', NOW(), NOW());
+INSERT INTO hmos VALUES (7,'Insular Health Care', NOW(), NOW());
+INSERT INTO hmos VALUES (8,'MedAsia', NOW(), NOW());
+INSERT INTO hmos VALUES (9,'AsianCare', NOW(), NOW());
+INSERT INTO hmos VALUES (10,'Insular Life', NOW(), NOW());
+INSERT INTO hmos VALUES (11,'Medicare Plus', NOW(), NOW());
+INSERT INTO hmos VALUES (12,'FortuneCare', NOW(), NOW());
+INSERT INTO hmos VALUES (13,'Aventus', NOW(), NOW());
+INSERT INTO hmos VALUES (14,'MEDOCare', NOW(), NOW());
+INSERT INTO hmos VALUES (15,'Carewell', NOW(), NOW());
