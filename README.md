@@ -16,4 +16,4 @@ Amiel Foronda Octaviano
 \
 \
 \
-ImpactHackaton 2020
+ImpactHackathon 2020 : Smart Sustainable Cities Hackathon
